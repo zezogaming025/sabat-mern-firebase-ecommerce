@@ -1,14 +1,167 @@
-# 🚀 Mern E-Commerce
+# Sabat MERN Firebase E-Commerce 🌐🛒
 
-A2Z E-Commerce Website Using React JS, Node JS, Express JS, MongoDB and Firebase
+Welcome to the **Sabat MERN Firebase E-Commerce** repository! This project showcases a fully functional e-commerce website built using modern web technologies. You can download the latest version from the [Releases section](https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/releases).
 
-## Total Working Hour of This Project 🚀
+## Table of Contents
 
-<img src="https://wakatime.com/badge/user/5d261342-06a0-4615-9707-05a1926dc0b4/project/b0194ff3-74e6-4c09-aba4-faf07b7cbf6d.svg">
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [API Documentation](#api-documentation)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Build Status
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1f54d68d-b208-483c-9592-ed64ac97dd62/deploy-status)](https://app.netlify.com/sites/a2z-mern-ecommerce/deploys)
+## Features
 
-## Live Website 
+- User authentication with Firebase
+- Secure payment processing using Aamar Pay
+- Responsive design for mobile and desktop
+- Product management (CRUD operations)
+- User-friendly interface with React Router
+- Progressive Web App (PWA) capabilities
+- Form handling with React Hook Form
+- RESTful API built with Express.js and Node.js
+- MongoDB for database management
 
-https://a2z-mern-ecommerce.netlify.app/
+## Technologies Used
+
+This project utilizes the following technologies:
+
+- **Frontend:**
+  - React.js
+  - React Router
+  - React Hook Form
+  - Google Fonts
+
+- **Backend:**
+  - Node.js
+  - Express.js
+  - MongoDB
+
+- **Others:**
+  - Firebase for authentication
+  - Aamar Pay for payment gateway
+  - Postman for API testing
+  - PWA features for offline capabilities
+
+## Installation
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/zezogaming025/sabat-mern-firebase-ecommerce.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd sabat-mern-firebase-ecommerce
+   ```
+
+3. Install the necessary dependencies for both the client and server:
+
+   For the client:
+
+   ```bash
+   cd client
+   npm install
+   ```
+
+   For the server:
+
+   ```bash
+   cd server
+   npm install
+   ```
+
+4. Set up your environment variables. Create a `.env` file in the server directory and add your Firebase and MongoDB credentials.
+
+5. Start the server:
+
+   ```bash
+   cd server
+   npm start
+   ```
+
+6. Start the client:
+
+   ```bash
+   cd client
+   npm start
+   ```
+
+Your application should now be running on `http://localhost:3000`.
+
+## Usage
+
+Once your application is up and running, you can explore the following features:
+
+- **User Registration:** Users can create an account using their email and password.
+- **Product Browsing:** Users can view a list of products and filter them based on categories.
+- **Shopping Cart:** Users can add products to their cart and proceed to checkout.
+- **Payment Processing:** Secure payments can be made through the Aamar Pay gateway.
+
+To see the latest updates and versions, visit the [Releases section](https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/releases).
+
+## Folder Structure
+
+Here’s a brief overview of the folder structure:
+
+```
+sabat-mern-firebase-ecommerce/
+├── client/                   # Frontend code
+│   ├── public/               # Public assets
+│   ├── src/                  # React components
+│   └── package.json          # Client dependencies
+├── server/                   # Backend code
+│   ├── config/               # Configuration files
+│   ├── controllers/          # API controllers
+│   ├── models/               # MongoDB models
+│   ├── routes/               # API routes
+│   └── package.json          # Server dependencies
+└── README.md                 # Project documentation
+```
+
+## API Documentation
+
+This project exposes a RESTful API. Below are the main endpoints:
+
+- **GET /api/products**: Fetch all products
+- **POST /api/products**: Create a new product
+- **GET /api/products/:id**: Fetch a single product by ID
+- **PUT /api/products/:id**: Update a product by ID
+- **DELETE /api/products/:id**: Delete a product by ID
+- **POST /api/auth/register**: Register a new user
+- **POST /api/auth/login**: Log in an existing user
+
+You can test these endpoints using Postman.
+
+## Contributing
+
+We welcome contributions to this project! If you would like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch to your forked repository.
+5. Create a pull request to the main repository.
+
+Please ensure that your code adheres to the project's coding standards and that you have tested your changes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For any inquiries or suggestions, feel free to reach out:
+
+- **GitHub:** [zezogaming025](https://github.com/zezogaming025)
+- **Email:** your-email@example.com
+
+Thank you for checking out the **Sabat MERN Firebase E-Commerce** project! We hope you find it useful. For updates and releases, visit the [Releases section](https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/releases).
